@@ -1,0 +1,6 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://uh3874v:uweh(wqm3n$fmsjaiden73245bd@cluster0.qztdh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretKey": "mern-secret-key",
+    "filePath": "C:\\Users\\user\\Desktop\\web\\git\\gallery\\server\\files"
+}
